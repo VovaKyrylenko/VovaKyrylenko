@@ -23,6 +23,7 @@
 <div style="display: flex; align-items: center; gap: 30px;">
 <a href="https://www.instagram.com/kyrylenkovova/"><img width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /></a>
 <a href="https://twitter.com/VovaKyrylenko?t=rD6wqYNh0yCksM3it_KgOg&s=09"><img height="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/Twitter-logo-png.png" /></a>
+<a href="https://www.facebook.com/vova.kyrylenko.5"><img height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png" /></a>
 </div>
 
 
