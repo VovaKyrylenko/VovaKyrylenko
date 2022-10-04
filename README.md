@@ -1,5 +1,10 @@
 ### Привіт 🟦🟨👋
 
+###  Мене звати Вова і я майбутній Full Stack розробник. Трошки про мене:
+
+💪 Люблю кодити
+📸 Займаюся фотографією
+🌱 Зараз я вивчаю JS
 
 
 ### Мій стек технологій🔍
@@ -11,11 +16,6 @@
 <img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 </div>
-
-
-💪 Люблю кодити
-📸 Займаюся фотографією
-🌱 Зараз я вивчаю JS
 
 
 ### Шукайте мене у соцмережах: 
