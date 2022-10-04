@@ -1,5 +1,6 @@
-### Hi there 👋
+### Привіт 🟦🟨👋
 
+### Мій стек технологій🔍
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
@@ -8,9 +9,6 @@
 <img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VovaKyrylenko)]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VovaKyrylenko&hide=contribs,prs)
 ![](https://komarev.com/ghpvc/?username=VovaKyrylenko)
 
 <!--
