@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?VovaKyrylenko=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=VovaKyrylenko)
 
 <!--
