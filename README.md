@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=fff"/>
+<img src="https://img.shields.io/badge/BEM-cyber?style=for-the-badge&logo=BEM&logoColor=fff"/>
 </div>
 
 <!--
