@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=fff"/>
 <img src="https://img.shields.io/badge/BEM-FF8C00?style=for-the-badge&logo=BEM&logoColor=fff"/>
 <img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 </div>
 
 <!--
