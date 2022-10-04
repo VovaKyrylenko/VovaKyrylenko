@@ -3,13 +3,13 @@
 <br />
 
 
-##  Мене звати Вова і я майбутній Full Stack розробник. Трошки про мене
+##  Мене звати Вова і я майбутній Full Stack розробник. Трошки про мене:
  - 💪 Люблю кодити
  - 📸 Займаюся фотографією
  - 🌱 Зараз я вивчаю JS
 <br />
 <br />
-### Мій стек технологій🔍
+## Мій стек технологій🔍
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
@@ -20,7 +20,7 @@
 </div>
 <br />
 
-### Шукайте мене у соцмережах: 
+## Шукайте мене у соцмережах: 
 
 <div style="display: flex; align-items: center; gap: 30px;">
 <a href="https://www.instagram.com/kyrylenkovova/"><img width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /></a>
