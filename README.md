@@ -7,11 +7,11 @@
 - ⚡ I love writing an article for https://webtricks-master.ru/
 - 🤹🏽 I like to shoot videos for youtube 
 
-##  Мене звати Вова і я майбутній Full Stack розробник. Трошки про мене:
+##  Мене звати Вова і я майбутній Full Stack розробник. Трошки про мене
 <div style="display: block;">
--💪 Люблю кодити
--📸 Займаюся фотографією
--🌱 Зараз я вивчаю JS
+- 💪 Люблю кодити
+- 📸 Займаюся фотографією
+- 🌱 Зараз я вивчаю JS
 </div>
 
 ### Мій стек технологій🔍
