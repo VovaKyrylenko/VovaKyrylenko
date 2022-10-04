@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-### 🌱 I’m currently learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20px"/>
+### 🌱 I’m currently learning JS
 </div>
 <!--
 - 🔭 I’m currently working on ...
