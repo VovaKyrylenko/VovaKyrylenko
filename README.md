@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: flex;">
-### 🌱 I’m currently learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="16px"/>
+### 🌱 I’m currently learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20px"/>
 </div>
 <!--
 - 🔭 I’m currently working on ...
