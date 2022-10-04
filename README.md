@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=fff"/>
 <img src="https://img.shields.io/badge/BEM-FF8C00?style=for-the-badge&logo=SASS&logoColor=fff"/>
+<img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=fff"/>
 </div>
 
 <!--
