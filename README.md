@@ -19,8 +19,10 @@
 
 
 ### Шукайте мене у соцмережах: 
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
-[instagram]: https://www.instagram.com/kyrylenkovova/
+[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][https://www.instagram.com/kyrylenkovova/]
+
+
+
 
 <!--
 - 🔭 I’m currently working on ...
