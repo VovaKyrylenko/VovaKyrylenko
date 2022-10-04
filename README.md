@@ -13,7 +13,7 @@
 </div>
 
 
-### 🌱 I’m currently learning JS
+### 🌱 Зараз я вивчаю JS
 
 <!--
 - 🔭 I’m currently working on ...
