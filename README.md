@@ -1,5 +1,12 @@
 ### Привіт 🟦🟨👋
 
+## I'm a FrontEnd Developer, and Teacher
+- 💪 I like to write code
+- 🎉 I love to paint and play the guitar
+- 🥅 I am constantly learning new things
+- ⚡ I love writing an article for https://webtricks-master.ru/
+- 🤹🏽 I like to shoot videos for youtube 
+
 ##  Мене звати Вова і я майбутній Full Stack розробник. Трошки про мене:
 <div style="display: block;">
 -💪 Люблю кодити
