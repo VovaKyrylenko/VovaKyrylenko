@@ -13,7 +13,7 @@
 </div>
 
 
-##🌱 I’m currently learning JavaScript <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=fff"/>
+##🌱 I’m currently learning JavaScript<img src="https://img.shields.io/badge/GitHub-181717"/>
 
 <!--
 - 🔭 I’m currently working on ...
