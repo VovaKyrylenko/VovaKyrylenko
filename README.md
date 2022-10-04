@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
 ### 🌱 I’m currently learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20px"/>
 </div>
 <!--
