@@ -13,7 +13,13 @@
 </div>
 
 
-### 🌱 Зараз я вивчаю JS
+💪 Люблю кодити
+📸 Займаюся фотографією
+🌱 Зараз я вивчаю JS
+
+
+### Шукайте мене у соцмережах: 
+[instagram]: https://www.instagram.com/kyrylenkovova/
 
 <!--
 - 🔭 I’m currently working on ...
