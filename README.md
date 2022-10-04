@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 </div>
 
-<div style="display: flex; align-items: center;">
+
 ### 🌱 I’m currently learning JS
-</div>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
