@@ -6,13 +6,14 @@
 ##  Мене звати Вова і я майбутній Full Stack розробник. Трошки про мене:
  - 💪 Люблю кодити
  - 📸 Займаюся фотографією
- - 🌱 Зараз я вивчаю JS
+ - 🌱 Зараз я вивчаю Node.js
 <br />
 <br />
 
 ## Мій стек технологій🔍
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff](https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=React&logoColor=fff&color=blue"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=fff"/>
 <img src="https://img.shields.io/badge/BEM-FF8C00?style=for-the-badge&logo=BEM&logoColor=fff"/>
