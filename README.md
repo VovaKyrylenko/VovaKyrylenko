@@ -14,7 +14,9 @@
 
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/JS-E34F26?style=for-the-badge&logo=JavaScript&logoColor=fff&color=yellow"/>
+  <img src="https://img.shields.io/badge/JS-E34F26?style=for-the-badge&logo=JavaScript&logoColor=fff&color=yellow"/>
 <img src="https://img.shields.io/badge/TypeScript-E34F26?style=for-the-badge&logo=TypeScript&logoColor=fff&color=3187c6"/>
+<img src="https://img.shields.io/badge/Node.js-E34F26?style=for-the-badge&logo=node.js&logoColor=fff&color=3C873A"/>
 <img src="https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=React&logoColor=fff&color=blue"/>
 <img src="https://img.shields.io/badge/Redux-E34F26?style=for-the-badge&logo=Redux&logoColor=fff&color=purple"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
