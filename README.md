@@ -13,7 +13,6 @@
 ## Мій стек технологій🔍
 
 <div style="display: flex;">
- <img src="https://img.shields.io/badge/JS-E34F26?style=for-the-badge&logo=JavaScript&logoColor=fff&color=yellow"/>
   <img src="https://img.shields.io/badge/JS-E34F26?style=for-the-badge&logo=JavaScript&logoColor=fff&color=yellow"/>
 <img src="https://img.shields.io/badge/TypeScript-E34F26?style=for-the-badge&logo=TypeScript&logoColor=fff&color=3187c6"/>
 <img src="https://img.shields.io/badge/Node.js-E34F26?style=for-the-badge&logo=node.js&logoColor=fff&color=3C873A"/>
