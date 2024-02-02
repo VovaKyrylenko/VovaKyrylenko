@@ -13,14 +13,12 @@
 ## Мій стек технологій🔍
 
 <div style="display: flex;">
+ <img src="https://img.shields.io/badge/JS-E34F26?style=for-the-badge&logo=JavaScript&logoColor=fff&color=yellow"/>
+<img src="https://img.shields.io/badge/TypeScript-E34F26?style=for-the-badge&logo=TypeScript&logoColor=fff&color=3187c6"/>
 <img src="https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=React&logoColor=fff&color=blue"/>
 <img src="https://img.shields.io/badge/Redux-E34F26?style=for-the-badge&logo=Redux&logoColor=fff&color=purple"/>
-<img src="https://img.shields.io/badge/JS-E34F26?style=for-the-badge&logo=JavaScript&logoColor=fff&color=yellow"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"/>
-<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=fff"/>
-<img src="https://img.shields.io/badge/BEM-FF8C00?style=for-the-badge&logo=BEM&logoColor=fff"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 </div>
 <br />
 
