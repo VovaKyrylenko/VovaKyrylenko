@@ -4,7 +4,7 @@
 
 ## Introduction 🚀
 
-Greetings, I'm Volodymyr Kyrylenko. Presently, I'm immersed in the world of technology as a Software Engineer at Spartan dev. In addition to my role there, I take great pride in being the Founder and CEO of SecureBot Lab. My professional journey is a fusion of software development expertise and the thrill of steering my own company towards innovation and success.
+Greetings, I'm Volodymyr Kyrylenko. Presently, I'm immersed in the world of technology as a Software Engineer, also I take great pride in being the Founder and CEO of SecureBot Lab. My professional journey is a fusion of software development expertise and the thrill of steering my own company towards innovation and success.
 
 ### Spartan dev:
 
